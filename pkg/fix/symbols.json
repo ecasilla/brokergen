@@ -1,0 +1,537 @@
+"[
+  {
+    "company": "American Airlines Group Inc",
+    "symbol": "AAL",
+    "price": "41.70"
+  },
+  {
+    "company": "Apple Inc",
+    "symbol": "AAPL",
+    "price": "141.46"
+  },
+  {
+    "company": "Adobe Systems Inc",
+    "symbol": "ADBE",
+    "price": "126.31"
+  },
+  {
+    "company": "Analog Devices Inc",
+    "symbol": "ADI",
+    "price": "82.90"
+  },
+  {
+    "company": "Automatic Data Processing Inc",
+    "symbol": "ADP",
+    "price": "104.45"
+  },
+  {
+    "company": "Autodesk Inc",
+    "symbol": "ADSK",
+    "price": "86.32"
+  },
+  {
+    "company": "Akamai Technologies Inc",
+    "symbol": "AKAM",
+    "price": "64.86"
+  },
+  {
+    "company": "Alexion Pharmaceuticals Inc",
+    "symbol": "ALXN",
+    "price": "120.20"
+  },
+  {
+    "company": "Applied Materials Inc",
+    "symbol": "AMAT",
+    "price": "39.57"
+  },
+  {
+    "company": "Amgen Inc",
+    "symbol": "AMGN",
+    "price": "169.24"
+  },
+  {
+    "company": "Amazon.com Inc",
+    "symbol": "AMZN",
+    "price": "856.97"
+  },
+  {
+    "company": "Activision Blizzard Inc",
+    "symbol": "ATVI",
+    "price": "48.96"
+  },
+  {
+    "company": "Broadcom Ltd",
+    "symbol": "AVGO",
+    "price": "221.24"
+  },
+  {
+    "company": "Baidu Inc",
+    "symbol": "BIDU",
+    "price": "176.13"
+  },
+  {
+    "company": "Biogen Inc",
+    "symbol": "BIIB",
+    "price": "274.80"
+  },
+  {
+    "company": "Biomarin Pharmaceutical Inc",
+    "symbol": "BMRN",
+    "price": "90.00"
+  },
+  {
+    "company": "CA Inc",
+    "symbol": "CA",
+    "price": "32.35"
+  },
+  {
+    "company": "Celgene Corp",
+    "symbol": "CELG",
+    "price": "126.51"
+  },
+  {
+    "company": "Cerner Corp",
+    "symbol": "CERN",
+    "price": "56.57"
+  },
+  {
+    "company": "Check Point Software Technologies Ltd",
+    "symbol": "CHKP",
+    "price": "101.69"
+  },
+  {
+    "company": "Charter Communications Inc",
+    "symbol": "CHTR",
+    "price": "324.99"
+  },
+  {
+    "company": "Ctrip.Com International Ltd",
+    "symbol": "CTRP",
+    "price": "49.76"
+  },
+  {
+    "company": "Cintas Corp",
+    "symbol": "CTAS",
+    "price": "124.31"
+  },
+  {
+    "company": "Cisco Systems Inc",
+    "symbol": "CSCO",
+    "price": "34.28"
+  },
+  {
+    "company": "Citrix Systems Inc",
+    "symbol": "CTXS",
+    "price": "82.49"
+  },
+  {
+    "company": "Comcast Corp",
+    "symbol": "CMCSA",
+    "price": "37.48"
+  },
+  {
+    "company": "Costco Wholesale Corp",
+    "symbol": "COST",
+    "price": "167.44"
+  },
+  {
+    "company": "CSX Corp",
+    "symbol": "CSX",
+    "price": "46.88"
+  },
+  {
+    "company": "Cognizant Technology Solutions Corp",
+    "symbol": "CTSH",
+    "price": "58.98"
+  },
+  {
+    "company": "Discovery Communications Inc",
+    "symbol": "DISCA",
+    "price": "27.73"
+  },
+  {
+    "company": "Discovery Communications Inc",
+    "symbol": "DISCK",
+    "price": "27.16"
+  },
+  {
+    "company": "DISH Network Corp",
+    "symbol": "DISH",
+    "price": "63.06"
+  },
+  {
+    "company": "Dollar Tree Inc",
+    "symbol": "DLTR",
+    "price": "74.30"
+  },
+  {
+    "company": "Electronic Arts",
+    "symbol": "EA",
+    "price": "89.16"
+  },
+  {
+    "company": "eBay Inc",
+    "symbol": "EBAY",
+    "price": "33.81"
+  },
+  {
+    "company": "Express Scripts Holding Co",
+    "symbol": "ESRX",
+    "price": "64.37"
+  },
+  {
+    "company": "Expedia Inc",
+    "symbol": "EXPE",
+    "price": "129.87"
+  },
+  {
+    "company": "Fastenal Co",
+    "symbol": "FAST",
+    "price": "51.80"
+  },
+  {
+    "company": "Facebook",
+    "symbol": "FB",
+    "price": "139.94"
+  },
+  {
+    "company": "Fiserv Inc",
+    "symbol": "FISV",
+    "price": "116.70"
+  },
+  {
+    "company": "21st Century Fox Class B",
+    "symbol": "FOX",
+    "price": "30.09"
+  },
+  {
+    "company": "21st Century Fox Class A",
+    "symbol": "FOXA",
+    "price": "30.63"
+  },
+  {
+    "company": "Gilead Sciences Inc",
+    "symbol": "GILD",
+    "price": "68.71"
+  },
+  {
+    "company": "Alphabet Class C",
+    "symbol": "GOOG",
+    "price": "848.40"
+  },
+  {
+    "company": "Alphabet Class A",
+    "symbol": "GOOGL",
+    "price": "867.91"
+  },
+  {
+    "company": "Hasbro Inc",
+    "symbol": "HAS",
+    "price": "100.55"
+  },
+  {
+    "company": "Henry Schein Inc",
+    "symbol": "HSIC",
+    "price": "171.41"
+  },
+  {
+    "company": "Hologic Inc",
+    "symbol": "HOLX",
+    "price": "42.42"
+  },
+  {
+    "company": "Illumina Inc",
+    "symbol": "ILMN",
+    "price": "163.49"
+  },
+  {
+    "company": "Incyte Corp",
+    "symbol": "INCY",
+    "price": "148.52"
+  },
+  {
+    "company": "Intel Corp",
+    "symbol": "INTC",
+    "price": "35.43"
+  },
+  {
+    "company": "Intuit Inc",
+    "symbol": "INTU",
+    "price": "123.40"
+  },
+  {
+    "company": "Intuitive Surgical Inc",
+    "symbol": "ISRG",
+    "price": "750.03"
+  },
+  {
+    "company": "J.B. Hunt Transport Services Inc",
+    "symbol": "JBHT",
+    "price": "92.91"
+  },
+  {
+    "company": "JD.com Inc",
+    "symbol": "JD",
+    "price": "31.72"
+  },
+  {
+    "company": "KLA-Tencor Corp",
+    "symbol": "KLAC",
+    "price": "95.12"
+  },
+  {
+    "company": "Kraft Heinz Co",
+    "symbol": "KHC",
+    "price": "92.36"
+  },
+  {
+    "company": "Liberty Global PLC",
+    "symbol": "LBTYA",
+    "price": "36.64"
+  },
+  {
+    "company": "Liberty Global PLC",
+    "symbol": "LBTYK",
+    "price": "35.94"
+  },
+  {
+    "company": "Liberty Global PLC",
+    "symbol": "LILA",
+    "price": "22.41"
+  },
+  {
+    "company": "Liberty Global PLC",
+    "symbol": "LILAK",
+    "price": "23.09"
+  },
+  {
+    "company": "Lam Research Corp",
+    "symbol": "LRCX",
+    "price": "126.86"
+  },
+  {
+    "company": "Liberty Interactive Corp",
+    "symbol": "QVCA",
+    "price": "19.54"
+  },
+  {
+    "company": "Liberty Interactive Corp",
+    "symbol": "LVNTA",
+    "price": "43.94"
+  },
+  {
+    "company": "Marriott International Inc",
+    "symbol": "MAR",
+    "price": "88.68"
+  },
+  {
+    "company": "Mattel Inc",
+    "symbol": "MAT",
+    "price": "25.31"
+  },
+  {
+    "company": "Microchip Technology Inc",
+    "symbol": "MCHP",
+    "price": "74.35"
+  },
+  {
+    "company": "Mondelez International Inc",
+    "symbol": "MDLZ",
+    "price": "44.44"
+  },
+  {
+    "company": "Monster Beverage Corp",
+    "symbol": "MNST",
+    "price": "46.80"
+  },
+  {
+    "company": "Microsoft Corp",
+    "symbol": "MSFT",
+    "price": "64.93"
+  },
+  {
+    "company": "Micron Technology Inc",
+    "symbol": "MU",
+    "price": "26.21"
+  },
+  {
+    "company": "Maxim Integrated Products Inc",
+    "symbol": "MXIM",
+    "price": "45.80"
+  },
+  {
+    "company": "Mylan NV",
+    "symbol": "MYL",
+    "price": "42.17"
+  },
+  {
+    "company": "Norwegian Cruise Line Holdings Ltd",
+    "symbol": "NCLH",
+    "price": "51.10"
+  },
+  {
+    "company": "Netflix Inc",
+    "symbol": "NFLX",
+    "price": "145.83"
+  },
+  {
+    "company": "NetEase Inc",
+    "symbol": "NTES",
+    "price": "294.12"
+  },
+  {
+    "company": "NVIDIA Corp",
+    "symbol": "NVDA",
+    "price": "109.45"
+  },
+  {
+    "company": "O'Reilly Automotive Inc",
+    "symbol": "ORLY",
+    "price": "273.08"
+  },
+  {
+    "company": "Paychex Inc",
+    "symbol": "PAYX",
+    "price": "62.31"
+  },
+  {
+    "company": "PACCAR Inc",
+    "symbol": "PCAR",
+    "price": "69.11"
+  },
+  {
+    "company": "The Priceline Group",
+    "symbol": "PCLN",
+    "price": "1765.4399"
+  },
+  {
+    "company": "PayPal Holdings Inc",
+    "symbol": "PYPL",
+    "price": "43.16"
+  },
+  {
+    "company": "Qualcomm Inc",
+    "symbol": "QCOM",
+    "price": "57.81"
+  },
+  {
+    "company": "Regeneron Pharmaceuticals Inc",
+    "symbol": "REGN",
+    "price": "382.02"
+  },
+  {
+    "company": "Ross Stores Inc",
+    "symbol": "ROST",
+    "price": "66.46"
+  },
+  {
+    "company": "SBA Communications Corp",
+    "symbol": "SBAC",
+    "price": "117.06"
+  },
+  {
+    "company": "Seagate Technology PLC",
+    "symbol": "STX",
+    "price": "46.08"
+  },
+  {
+    "company": "Shire PLC",
+    "symbol": "SHPG",
+    "price": "176.19"
+  },
+  {
+    "company": "Sirius XM Holdings Inc",
+    "symbol": "SIRI",
+    "price": "5.31"
+  },
+  {
+    "company": "Skyworks Solutions Inc",
+    "symbol": "SWKS",
+    "price": "98.19"
+  },
+  {
+    "company": "Starbucks Corp",
+    "symbol": "SBUX",
+    "price": "55.81"
+  },
+  {
+    "company": "Symantec Corp",
+    "symbol": "SYMC",
+    "price": "30.78"
+  },
+  {
+    "company": "T-Mobile US Inc",
+    "symbol": "TMUS",
+    "price": "63.11"
+  },
+  {
+    "company": "TripAdvisor Inc",
+    "symbol": "TRIP",
+    "price": "43.00"
+  },
+  {
+    "company": "Tractor Supply Co",
+    "symbol": "TSCO",
+    "price": "70.92"
+  },
+  {
+    "company": "Tesla Inc",
+    "symbol": "TSLA",
+    "price": "261.92"
+  },
+  {
+    "company": "Texas Instruments Inc",
+    "symbol": "TXN",
+    "price": "81.59"
+  },
+  {
+    "company": "Ulta Beauty Inc",
+    "symbol": "ULTA",
+    "price": "285.71"
+  },
+  {
+    "company": "Viacom Inc",
+    "symbol": "VIAB",
+    "price": "42.87"
+  },
+  {
+    "company": "Vodafone Group PLC",
+    "symbol": "VOD",
+    "price": "26.48"
+  },
+  {
+    "company": "Verisk Analytics Inc",
+    "symbol": "VRSK",
+    "price": "80.95"
+  },
+  {
+    "company": "Vertex Pharmaceuticals Inc",
+    "symbol": "VRTX",
+    "price": "91.31"
+  },
+  {
+    "company": "Walgreens Boots Alliance Inc",
+    "symbol": "WBA",
+    "price": "84.63"
+  },
+  {
+    "company": "Western Digital Corp",
+    "symbol": "WDC",
+    "price": "76.42"
+  },
+  {
+    "company": "Xilinx Inc",
+    "symbol": "XLNX",
+    "price": "60.32"
+  },
+  {
+    "company": "Dentsply Sirona Inc",
+    "symbol": "XRAY",
+    "price": "62.75"
+  },
+  {
+    "company": "Yahoo Inc",
+    "symbol": "YHOO",
+    "price": "46.77"
+  }
+]"
